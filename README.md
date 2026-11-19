@@ -56,4 +56,4 @@ Repository Settings, Pages, Build and deployment: Source "Deploy from a branch",
 
 ## Trademarks and content
 
-Personalized.Gifts is an independent site. It sells nothing and is not affiliated with, sponsored by or endorsed by any retailer, marketplace or brand. "Personalized gifts" is used as an ordinary description. Product names, logos and brands, including those in embedded videos, belong to their owners. All inscriptions, guides and illustrations here are original. Fonts are used under the SIL Open Font License; licence texts are in `assets/fonts/licenses/`.
+Personalized.Gifts is an independent site. It sells nothing and is not affiliated with, sponsored by or endorsed by any retailer, marketplace or brand. "Personalized gifts" is used as an ordinary description. Product names, logos and brands, including those in embedded videos, belong to their owners. All inscriptions, guides and illustrations here are original. Fonts are open source (SIL Open Font License and Apache 2.0); licence texts are in `assets/fonts/licenses/`.
