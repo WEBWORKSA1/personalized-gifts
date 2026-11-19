@@ -1,0 +1,22 @@
+{
+ "name": "Personalized.Gifts",
+ "short_name": "Gifts",
+ "description": "Free tools and guides for personalized gifts: find the right gift, choose the words, make a monogram, print a tag, and plan bulk orders.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#b4174e",
+ "icons": [
+  {
+   "src": "assets/img/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/img/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
