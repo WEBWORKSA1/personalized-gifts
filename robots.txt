@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /_build/
 
-Sitemap: https://webworksa1.github.io/personalized-gifts/sitemap.xml
+Sitemap: https://personalized.gifts/sitemap.xml
